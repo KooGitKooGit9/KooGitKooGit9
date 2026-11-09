@@ -8,7 +8,7 @@ I'm a third-year Computer Engineering student at Sungkyul University in Korea. I
 
 ### Now
 
-- Looking for a research internship starting in January 2027 (Human–AI Interaction · AI for Learning · LLM Evaluation)
+- Looking for a research internship starting in January 2027 (Human–AI Interaction · LLM Evaluation · LLM Systems)
 - Leading **SoonGongDan**, a capstone project that measures focused study time with on-device face detection (team of 3)
 - Taking Machine Learning and Operating Systems
 
@@ -21,7 +21,7 @@ Explains a word in context from screen pixels, even in copy-protected e-books. 4
 An iOS mystery game judged by an LLM. A five-script evaluation suite caught fixes that broke other cases, and a no-new-facts rule cut serious answer leaks from 12 to 0.
 
 **🤝 [TeamFlow](https://github.com/KooGitKooGit9/teamflow)** &nbsp;·&nbsp; <sub>Node.js · 7 Claude Code agents in tmux</sub><br>
-A team app rebuilt by seven parallel Claude Code agents, published with the agents' rules, API contract, and status log.
+I led seven parallel Claude Code agents to rebuild a team app; the agents' rules, API contract, and status log are published.
 
 **🏙️ [Rehearsal City](https://github.com/KooGitKooGit9/rehearsal-city)** &nbsp;·&nbsp; <sub>FastAPI · PostGIS · React + deck.gl · team lead</sub><br>
 Should I sign this shop lease? A break-even check against measured sales nearby, from Seoul open data.

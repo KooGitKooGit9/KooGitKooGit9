@@ -3,6 +3,6 @@
   <text x="72" y="126" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#1d1d1f">Junmo Koo</text>
   <text x="72" y="178" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic" fill="#4a4a50">I build AI-powered tools and measure how well they work.</text>
   <line x1="72" y1="214" x2="1208" y2="214" stroke="#d6d4cc" stroke-width="1.5"/>
-  <text x="72" y="254" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="17" letter-spacing="2" fill="#1f4e79">HUMAN–AI INTERACTION · AI FOR LEARNING · LLM EVALUATION</text>
+  <text x="72" y="254" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="17" letter-spacing="2" fill="#1f4e79">HUMAN–AI INTERACTION · LLM EVALUATION · LLM SYSTEMS</text>
   <text x="1208" y="254" text-anchor="end" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="17" fill="#7c7c84">Sungkyul University · Korea</text>
 </svg>
